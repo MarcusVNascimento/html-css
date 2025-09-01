@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(to right, #C7FFED, #D8FFDB);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+h1 {
+    text-align: center;
+    color: #008F8C;
+    text-shadow: 1px 1px 3px #003a39aa;
+
+}
+main {
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 15px #3d4f49ab
+}
+
+p {
+    color: black;
+    text-align: center;
+}
